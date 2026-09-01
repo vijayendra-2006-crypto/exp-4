@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vijayendra/eclipse-workspace/vector%203D/mlruns/754157889692617765/1cca94cf238d4031bd6b4e8f91545090/artifacts
+end_time: 1788275012513
+entry_point_name: ''
+experiment_id: '754157889692617765'
+lifecycle_stage: active
+run_id: 1cca94cf238d4031bd6b4e8f91545090
+run_name: Linear Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788275005993
+status: 3
+tags: []
+user_id: Vijayendra

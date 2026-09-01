@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Vijayendra/eclipse-workspace/vector%203D/mlruns/942814182249313971/models/m-98a746555908473f8fc196bfb6fc3dba/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-98a746555908473f8fc196bfb6fc3dba
+model_size_bytes: 7309106
+model_uuid: m-98a746555908473f8fc196bfb6fc3dba
+prompts: null
+run_id: 3d762c194d004bd3b9640346dd5ae74a
+utc_time_created: '2026-09-01 07:50:12.859013'

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vijayendra/eclipse-workspace/vector%203D/mlruns/754157889692617765/77fb06f4b7b4412db1f1859db02b48d5/artifacts
+end_time: 1788275016205
+entry_point_name: ''
+experiment_id: '754157889692617765'
+lifecycle_stage: active
+run_id: 77fb06f4b7b4412db1f1859db02b48d5
+run_name: Decision Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788275012526
+status: 3
+tags: []
+user_id: Vijayendra

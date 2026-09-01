@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Vijayendra/eclipse-workspace/vector%203D/mlruns/942814182249313971/5b9149fb2160427c933c9519aff33ad6/artifacts
+end_time: 1788273997608
+entry_point_name: ''
+experiment_id: '942814182249313971'
+lifecycle_stage: active
+run_id: 5b9149fb2160427c933c9519aff33ad6
+run_name: DecisionTreeRegressor
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1788273993549
+status: 3
+tags: []
+user_id: Vijayendra

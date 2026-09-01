@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Vijayendra/eclipse-workspace/vector%203D/mlruns/754157889692617765/models/m-6b14927719cc42c585ea9b75735efb1f/artifacts
+creation_timestamp: 1788275012749
+experiment_id: '754157889692617765'
+last_updated_timestamp: 1788275016192
+model_id: m-6b14927719cc42c585ea9b75735efb1f
+model_type: null
+name: model
+source_run_id: 77fb06f4b7b4412db1f1859db02b48d5
+status: 2
+status_message: null
